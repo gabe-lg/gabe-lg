@@ -44,7 +44,7 @@ src="https://github-profile-trophy.vercel.app/?username=gabe-lg"
 alt="gabe-lg" /></a></p>
 
 ## Languages and Tools
-<i>-- Hover over the images for the names --</i>
+<i>-- Hover over the icons for details --</i>
 <div>
 <h3>Languages:</h3>
 <img src="https://skillicons.dev/icons?i=py,java,js,c,cs,cpp&theme=light" title="Python, Java, JavaScript, C, C#, C++">
