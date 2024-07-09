@@ -47,7 +47,7 @@ alt="gabe-lg" /></a></p>
 <i>-- Hover over the icons for details --</i>
 <div>
 <h3>Languages:</h3>
-<img src="https://skillicons.dev/icons?i=py,java,js,c,cs,cpp&theme=light" title="Python, Java, JavaScript, C, C#, C++">
+<img src="https://skillicons.dev/icons?i=java,py,js,c,cs,cpp&theme=light" title="Java, Python, JavaScript, C, C#, C++">
 </div>
 
 <div>
@@ -61,13 +61,13 @@ alt="gabe-lg" /></a></p>
 </div>
 
 <div>
-<h3>Tools:</h3>
-<img src="https://skillicons.dev/icons?i=vscode,idea,pycharm&theme=light" title="VS Code, IntelliJ IDEA, PyCharm">
+<h3>Python lib:</h3>
+<img src="https://skillicons.dev/icons?i=django,flask,discord,bots&theme=light" title="Django, Flask, Discord, Discord bots">
 </div>
 
 <div>
-<h3>Python lib:</h3>
-<img src="https://skillicons.dev/icons?i=django,flask,discord,bots&theme=light" title="Django, Flask, Discord, Discord bots">
+<h3>Tools:</h3>
+<img src="https://skillicons.dev/icons?i=vscode,idea,pycharm&theme=light" title="VS Code, IntelliJ IDEA, PyCharm">
 </div>
 
 <div>
