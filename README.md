@@ -47,7 +47,7 @@ alt="gabe-lg" /></a></p>
 <i>-- Hover over the icons for details --</i>
 <div>
 <h3>Languages:</h3>
-<img src="https://skillicons.dev/icons?i=java,py,js,c,cs,cpp&theme=light" title="Java, Python, JavaScript, C, C#, C++">
+<img src="https://skillicons.dev/icons?i=java,py,js,c,cs,cpp,ocaml&theme=light" title="Java, Python, JavaScript, C, C#, C++, OCaml">
 </div>
 
 <div>
